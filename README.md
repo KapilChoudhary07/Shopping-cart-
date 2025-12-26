@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+🛒 Shopping Cart Web Application (React + Redux)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern Shopping Cart Web Application built using React.js and Redux Toolkit. This project demonstrates real-world frontend concepts like global state management, reusable components, and responsive UI design.
 
-## Available Scripts
+📌 Project Description
 
-In the project directory, you can run:
+This Shopping Cart application allows users to browse products, add them to the cart, remove items, and see the updated total price instantly. Redux Toolkit is used to manage the cart state globally, making the app scalable and easy to maintain.
 
-### `npm start`
+🌐 Live Deployment
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://shopping-cart-silk-rho.vercel.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-- ✨ Key Features
 
-### `npm test`
+Product listing with price details
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Add products to cart using Redux actions
 
-### `npm run build`
+Remove products from cart
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Global cart state management with Redux Toolkit
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Automatic total price calculation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clean & responsive user interface
 
-### `npm run eject`
+🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+HTML5
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+CSS3 / Tailwind CSS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+JavaScript (ES6+)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+React.js
 
-## Learn More
+Redux Toolkit
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React Redux
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🧠 Why Redux Toolkit?
 
-### Code Splitting
+Centralized cart state management
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Easy handling of add/remove cart actions
 
-### Analyzing the Bundle Size
+Avoids prop drilling
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Improves scalability for large applications
 
-### Making a Progressive Web App
+🎯 Learning Outcomes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Understanding Redux Toolkit workflow
 
-### Advanced Configuration
+Creating slices, actions, and reducers
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Managing global state in React
 
-### Deployment
+Building a real-world shopping cart system
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Improving code structure and maintainability
 
-### `npm run build` fails to minify
+👤 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Kapil Choudhary
+
+Frontend Developer (Fresher)
